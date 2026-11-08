@@ -148,6 +148,20 @@ of the proprietary logic without express written permission is strictly prohibit
 
 ---
 
+## 👨‍💻 Author & Lead Engineer
+
 <div align="center">
-  <sub>Engineered with precision for <strong>Tectonic</strong> • Foundation of Future</sub>
+  <h3><strong>Tahmidul Ahad</strong></h3>
+  <p>Lead Engineer & Architect • Tectonic Pulse</p>
+  <p>
+    <a href="https://github.com/TahmidulAhad" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-@TahmidulAhad-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+    </a>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <sub>Architected & Engineered with precision by <strong>Tahmidul Ahad</strong> for <strong>Tectonic</strong> • Foundation of Future</sub>
 </div>
